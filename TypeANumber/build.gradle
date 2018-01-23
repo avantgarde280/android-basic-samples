@@ -9,7 +9,7 @@ android {
             TODO: Replace this value with your application's package name
             You can find this in Linked Apps section of your Game Service in the Google Play Console
         */
-        applicationId "com.google.example.games.replace.me"
+        applicationId "com.myrippleapps.wafeyv2"
 
         minSdkVersion android_min_sdk_version
         targetSdkVersion android_compile_version
